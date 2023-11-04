@@ -1,2 +1,0 @@
-let fruta='banana'
-console.log('minha fruta preferida é'+fruta)
