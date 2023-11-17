@@ -1,7 +1,3 @@
-//variaveisx,operadoresx,laços de repetição,estrutura de decisãox e funções
-//let x,xx && x,while,switch case x e function x
-//console "O Herói tem de saldo de **{saldoVitorias}** está no nível de **{nivel}**"
-
 let numeros = resultado(12, 6);
 function resultado(vitorias, derrotas) {
 let saldoDeRankeadas = vitorias - derrotas;
