@@ -1,4 +1,4 @@
-let numeros = resultado(12, 6);
+let numeros = resultado(3, 6);
 function resultado(vitorias, derrotas) {
 let saldoDeRankeadas = vitorias - derrotas;
 let nivel=saldoDeRankeadas;
